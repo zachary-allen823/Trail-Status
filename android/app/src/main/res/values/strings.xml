@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DFW Trail Status</string>
+    <string name="widget_description">Open/closed status for a DORBA mountain bike trail</string>
+</resources>
